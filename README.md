@@ -1,7 +1,7 @@
 - BC3- COLECCIONES, FICHEROS Y ENTRADA/SALIDA
 - ITERADORES
 Ordenación de Objetos Estudiante
-Programa educativo que demuestra el uso de comparadores avanzados para organizar listas de objetos personalizados en Java.
+Programa que demuestra el uso de comparadores avanzados para organizar listas de objetos personalizados en Java.
 
 🚀 Funcionalidades
 - Carga Masiva de Datos: Inicializa una lista de objetos Estudiante con múltiples atributos (nombre, apellido y edad).
